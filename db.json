@@ -1,0 +1,34 @@
+{
+  "employees": [
+    {
+      "id": "1",
+      "name": "sudhesh",
+      "age": 32,
+      "companyId": "2"
+    },
+    {
+      "id": "2",
+      "name": "Geetika",
+      "age": 30,
+      "companyId": "2"
+    },
+    {
+      "id": "3",
+      "name": "Rambo",
+      "age": 10,
+      "companyId": "1"
+    }
+  ],
+  "companies": [
+    {
+      "id": "1",
+      "name": "Elisa",
+      "description": "Telecom operator"
+    },
+    {
+      "id": "2",
+      "name": "Telia",
+      "description": "Telecom operator"
+    }
+  ]
+}

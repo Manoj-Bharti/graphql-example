@@ -1,0 +1,14 @@
+# IDEA project files
+*.iml
+*.iws
+*.ipr
+.idea
+
+# VIM temp files
+*.swp
+
+
+# Node
+node/
+node_modules/
+n/
